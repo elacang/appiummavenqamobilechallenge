@@ -1,0 +1,4 @@
+pageobjects/ChromeAppScreen.class
+stepdefinitions/W3SchoolsSteps.class
+stepdefinitions/KrakenPageSteps.class
+stepdefinitions/GoogleSteps.class
